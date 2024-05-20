@@ -1,1 +1,3 @@
 # SDES_IMPLEMENTATION
+
+Implemented a Simplified DES (S-DES) encryption algorithm using an 8-bit block of plaintext and a 10-bit key. The project involved designing and testing individual subsystems before integrating them to ensure overall functionality. Extensive simulations were conducted to validate both the individual blocks and the integrated system. The layout design, including routing and placement, was completed and verified using DRC and LVS tools. Finally, the impact of parasitics on the design performance was analyzed, and calculations for total area, power, and throughput were performed.
